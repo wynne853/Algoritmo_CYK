@@ -1,7 +1,6 @@
-package Controler;
+package Algoritmo_CYK.Controler;
 
-import Model.Grammar;
-import Model.Table;
+import Algoritmo_CYK.Model.*;
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;

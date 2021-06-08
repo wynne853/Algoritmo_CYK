@@ -1,13 +1,13 @@
-package trabalhopratico2;
+package Algoritmo_CYK.Views;
 
-import Controler.Controler;
+import Algoritmo_CYK.Controler.Controler;
 import java.util.Scanner;
 
 /**
  *
  * @author Wynne
  */
-public class TrabalhoPratico2 {
+public class View {
 
     /**
      * @param args the command line arguments

@@ -1,4 +1,4 @@
-package Model;
+package Algoritmo_CYK.Model;
 
 /**
  *
